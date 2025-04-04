@@ -13,17 +13,15 @@
   <img src="https://img.shields.io/badge/Profile%20views-2043-blue" alt="Profile Views" />
 </p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/jaiswaladi246](https://github.com/jaiswaladi246)  
-- 💬 Ask me about **DevOps & Cloud DevOps**  
-- 📫 How to reach me **office@devopsshack.com**
+- 👨‍💻 All of my projects are available at [https://github.com/jaiswaladi246](https://github.com/Drqaxx)  
+- 💬 Ask me about **Bot's & Crack_tools**  
+- 📫 How to reach me **instgram.com/@boss_draxx**
 
 ---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://instagram.com/devopsshack" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
-  <a href="https://www.youtube.com/channel/UC1XLb_DoX2eNWGKjkh2epwA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" /></a>
-</p>
+  <a href="https://instagram.com/boss_draxx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
 
 ---
 
