@@ -1,5 +1,21 @@
 <h2 align="left">Hi 👋! My name is [Draxx] and I'm a [Dev, Producer, Webdev] from [India]</h2>
 
+### 📌 About Me
+- 🔭 I’m currently working on: A multiplayer game project + a personal dev blog
+- 🌱 I’m currently learning: Next.js, Three.js, and AI tools
+- 👯 I’m looking to collaborate on: Creative tech projects, game dev, and open source tools
+- 💬 Ask me about: Game development, content creation, full-stack workflows
+- ⚡ Fun fact: I once made a game in 48 hours during a game jam and it actually worked 😄
+
+---
+
+### 🧰 Tools I Use Frequently:
+- Code Editor: VS Code / WebStorm
+- Version Control: Git, GitHub
+- Design: Figma, Canva
+- Deployment: Vercel, Netlify
+
+---
 ###
 
 <div align="center">
