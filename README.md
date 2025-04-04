@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif" alt="Coding GIF" />
+<img align="right" height="150" src="https://cdn.discordapp.com/attachments/1186837525151617106/1357775673481236642/draxx.png?ex=67f16ea2&is=67f01d22&hm=c7594d32ee401f0262bfd317b8172d5e4d87e5cf8760bfc6aabc101f13167208&" alt="Coding GIF" />
 
 ###
 
