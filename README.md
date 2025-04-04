@@ -1,82 +1,114 @@
-<h2 align="left">Hi 👋! My name is [Draxx] and I'm a [Dev, Producer, Webdev] from [India]</h2>
+<h1 align="center">Hey Everyone 👋, I'm Draxx</h1>
+<h3 align="center">Corporate IT Professional | Discord Bot Developer | Tech Enthusiast</h3>
 
-### 📌 About Me
-- 🔭 I’m currently working on: [Leviathan]
-- 🌱 I’m currently learning: [JS,PHP,YML]
-- 💬 Ask me about: [ANYTHING]
-- ⚡ Fun fact: [The Dev Life Is boring]
+<img align="right" alt="Coding" width="400" src="https://media.discordapp.net/attachments/1186837525151617106/1357775673481236642/draxx.png?ex=67f16ea2&is=67f01d22&hm=c7594d32ee401f0262bfd317b8172d5e4d87e5cf8760bfc6aabc101f13167208&=&format=webp&quality=lossless&width=788&height=788">
+
+### 📊 Profile Stats
+<p align="left">
+  <img src="https://img.shields.io/badge/Profile%20views-2043-blue" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/Drqaxx?label=Followers&style=social" alt="GitHub Followers" />
+  <img src="https://komarev.com/ghpvc/?username=Drqaxx&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views Counter" />
+</p>
 
 ---
 
-### 🧰 Tools I Use Frequently:
-- Code Editor: VS Code / WebStorm
-- Version Control: Git, GitHub
-- Design: Adobe, Canva
-- Deployment: Vercel, Netlify
+## 🚀 About Me
+- 💼 Corporate IT professional by day, Discord bot developer by night
+- 🤖 Passionate about creating innovative Discord bots and automation tools
+- 🛠️ Experienced in crack tools development (for educational purposes only)
+- 🌐 Constantly exploring new technologies and sharing knowledge
 
 ---
-###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="Top Languages" />
-</div>
+## 🔧 Technologies & Tools
+### Programming Languages
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
 
-###
+### Web Development
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
 
-<img align="right" height="150" src="https://cdn.discordapp.com/attachments/1186837525151617106/1357775673481236642/draxx.png?ex=67f16ea2&is=67f01d22&hm=c7594d32ee401f0262bfd317b8172d5e4d87e5cf8760bfc6aabc101f13167208&" alt="Coding GIF" />
+### Databases
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Oracle](https://img.shields.io/badge/-Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
 
-###
+### DevOps & Cloud
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.youtube.com/@Draxlxrd" target="_blank"><img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="YouTube" /></a>
-  <a href="https://www.instagram.com/boss_draxx/" target="_blank"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Instagram" /></a>
-  <a href="https://www.twitch.tv/leader_drx" target="_blank"><img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Twitch" /></a>
-  <a href="https://discord.gg/AquMcQU39F" target="_blank"><img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Discord" /></a>
-  <a href="mailto:yourmail@gmail.com" target="_blank"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail" /></a>
-  <a href="https://x.com/Draxxlxrd" target="_blank"><img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Twitter" /></a>
-  <a href="https://www.threads.net/@Boss_draxx" target="_blank"><img src="https://img.shields.io/static/v1?message=Threads&logo=threads&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Threads" /></a>
-</p>
+### Design Tools
+![Adobe Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white)
+![Adobe Illustrator](https://img.shields.io/badge/-Illustrator-FF9A00?style=flat-square&logo=adobe-illustrator&logoColor=white)
 
-###
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/></a>
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/></a>
-  <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/></a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/></a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
-  <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/></a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a>
-  <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/></a>
-  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/></a>
-  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"><img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/></a>
-  <a href="https://unity.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/></a>
-  <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/></a>
-</p>
-
-###
-
-### 🛠️ Tech Stack:
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS3" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="C#" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" height="30" alt="Ruby" />
-</div>
-
-###
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Draxx animation" />
-
-### 📈 GitHub Contributions
+## 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=maurodesouza&theme=dracula&hide_border=false" alt="GitHub Streak Stats"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Drqaxx&show_icons=true&theme=radical" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=drqaxx&theme=radical" />
 </p>
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Drqaxx&theme=radical&layout=compact" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/boss_draxx)
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/your-invite-link)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/your-handle)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+[![Snapchat](https://img.shields.io/badge/Snapchat-%23FFFC00.svg?logo=Snapchat&logoColor=black)](https://snapchat.com/add/your-username)
+[![Threads](https://img.shields.io/badge/Threads-000000?logo=threads&logoColor=white)](https://threads.net/@your-username)
+
+---
+
+## 💡 Current Projects
+- **Leviathan** - Advanced Discord bot with moderation, entertainment, and utility features
+- **Automation Tools** - Various scripts and tools for IT automation
+- **Crack Tools Repository** - Educational resources about software vulnerabilities (ethical use only)
+
+---
+
+## 📚 Learning
+- **JavaScript/TypeScript** - Advanced concepts and frameworks
+- **PHP** - Web development and server-side scripting
+- **YAML** - Configuration and automation files
+- **Cybersecurity** - Ethical hacking and penetration testing
+
+---
+
+## 🎯 Goals for 2024
+- [ ] Launch a public Discord bot on top.gg
+- [ ] Contribute to open-source projects
+- [ ] Develop a comprehensive IT automation toolkit
+- [ ] Grow my GitHub community to 500+ followers
+
+---
+
+## 💬 Ask Me About
+- Discord bot development
+- Corporate IT infrastructure
+- Automation tools and scripts
+- Ethical hacking concepts
+- Career advice in tech
+
+---
+
+## ⚡ Fun Facts
+- I can solve a Rubik's cube in under 2 minutes
+- I've built over 50 Discord bots (most private)
+- My first computer was running Windows XP
+- I believe the best code is the code you don't have to write
+
+---
+
+> "The only way to learn is to break things and fix them again. That's how we grow in tech and in life." - Draxx
