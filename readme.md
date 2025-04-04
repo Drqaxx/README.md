@@ -12,8 +12,7 @@
 <p align="left">
   <img src="https://img.shields.io/badge/Profile%20views-2043-blue" alt="Profile Views" />
 </p>
-
-- 👨‍💻 All of my projects are available at [https://github.com/Drqaxx](https://github.com/Drqaxx)  
+ 
 - 💬 Ask me about **Bot's & Crack_tools**  
 - 📫 How to reach me **instgram.com/@boss_draxx**
 
