@@ -6,16 +6,7 @@
 
 <h3 align="center">A passionate DevOps Engineer from India. I work in the Corporate IT Sector and in my free time I make YouTube videos at <a href="https://www.youtube.com/@devopsshack" target="_blank">DevOpsShack</a></h3>
 
-<p align="center">
-  <a href="https://github.com/jaiswaladi246">
-    <img src="https://img.shields.io/github=Follow&style=social" />
-  </a>
-  <a href="https://www.youtube.com/@Draxlxrd">
-    <img src="https://img.shields.io/youtube/channel/subscribers/UC1XLb_DoX2eNWGKjkh2epwA?style=social" />
-  </a>
-</p>
-
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<img align="right" alt="Coding" width="400" src="https://media.discordapp.net/attachments/1186837525151617106/1357775673481236642/draxx.png?ex=67f16ea2&is=67f01d22&hm=c7594d32ee401f0262bfd317b8172d5e4d87e5cf8760bfc6aabc101f13167208&=&format=webp&quality=lossless&width=788&height=788">
 
 <p align="left">
   <img src="https://img.shields.io/badge/Profile%20views-2043-blue" alt="Profile Views" />
