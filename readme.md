@@ -40,19 +40,12 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Drqaxx&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Drqaxx" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=drqaxx&show_icons=true&locale=en" alt="drqaxx" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=drqaxx&" alt="drqaxx" /></p>
 
 ---
 ### 🔥 GitHub Contribution Streak
 
 ![GitHub Streak Badge](https://img.shields.io/badge/GitHub%20Streak-Active-brightgreen?logo=github&style=for-the-badge)
-
----
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=jaiswaladi246&limit=5&theme=flat&combine_all_yearly_contributions=true)
 
 ---
 
