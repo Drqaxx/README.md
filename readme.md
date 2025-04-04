@@ -64,14 +64,13 @@
 </p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jaiswaladi246&show_icons=true&locale=en&layout=compact&theme=vue&hide_border=true" alt="Top Langs" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jaiswaladi246&hide=html,css,scss,less,jupyter%20notebook&langs_count=8&layout=compact&theme=vue&hide_border=true&custom_title=Most%20Used%20Languages&card_width=300" alt="Top Langs" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jaiswaladi246&show_icons=true&locale=en&theme=vue&hide_border=true" alt="GitHub Stats" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jaiswaladi246&show_icons=true&locale=en&theme=vue&hide_border=true&custom_title=My%20GitHub%20Stats&show=reviews,discussions_started,discussions_answered" alt="GitHub Stats" /></p>
 
----
-### 🔥 GitHub Contribution Streak
-
-![GitHub Streak Badge](https://img.shields.io/badge/GitHub%20Streak-Active-brightgreen?logo=github&style=for-the-badge)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jaiswaladi246&theme=vue&hide_border=true" alt="GitHub Streak" />
+</p>
 
 ---
 
