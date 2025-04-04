@@ -16,25 +16,24 @@
 ### 🛠️ Tech Stack:
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="TypeScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="React" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS3" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="C#" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" height="30" alt="Ruby" />
 </div>
 
 ###
 
 ### 🌐 Connect with Me:
 <div align="left">
-  <a href="https://youtube.com" target="_blank">
+  <a href="https://www.youtube.com/@Draxlxrd" target="_blank">
     <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="YouTube" />
   </a>
-  <a href="https://instagram.com" target="_blank">
+  <a href="https://www.instagram.com/boss_draxx/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Instagram" />
   </a>
-  <a href="https://twitch.tv" target="_blank">
+  <a href="https://www.twitch.tv/leader_drx" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Twitch" />
   </a>
   <a href="https://discord.gg/AquMcQU39F" target="_blank">
@@ -43,6 +42,12 @@
   <a href="mailto:yourmail@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail" />
   </a>
+  <a href="https://x.com/Draxxlxrd" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Twitter" />
+  </a>
+  <a href="https://www.threads.net/@Boss_draxx" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Threads&logo=threads&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Threads" />
+  </a>
 </div>
 
 <br clear="both">
@@ -50,18 +55,17 @@
 ---
 
 ### 📌 About Me
-- 🔭 I’m currently working on: [Your project or goal]
-- 🌱 I’m currently learning: [New tech or topic you're diving into]
-- 👯 I’m looking to collaborate on: [Open source, startups, etc.]
-- 💬 Ask me about: [Tech, hobbies, etc.]
-- ⚡ Fun fact: [Something interesting or quirky about you]
+- 🔭 I’m currently working on: [Leviathan]
+- 🌱 I’m currently learning: [JS,PHP,YML]
+- 💬 Ask me about: [ANYTHING]
+- ⚡ Fun fact: [The Dev Life Is boring]
 
 ---
 
 ### 🧰 Tools I Use Frequently:
 - Code Editor: VS Code / WebStorm
 - Version Control: Git, GitHub
-- Design: Figma, Canva
+- Design: Adobe, Canva
 - Deployment: Vercel, Netlify
 
 ---
