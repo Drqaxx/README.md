@@ -40,11 +40,21 @@
 
 ---
 
-### 👨‍💼 About Me & 🤝 Open to Collaborations
 
-🎤 Available for **Guest Sessions / Webinars**  
-🤝 Open to **Project Collaborations / YouTube Collabs**  
-💼 Offering **DevOps Consulting / Mentorship**  
-📧 Let's chat: [office@devopsshack.com](mailto:office@devopsshack.com)
+### 📌 About Me
+- 🔭 I’m currently working on: [Leviathan]
+- 🌱 I’m currently learning: [JS,PHP,YML]
+- 💬 Ask me about: [ANYTHING]
+- ⚡ Fun fact: [The Dev Life Is boring]
+
+---
+
+### 🧰 Tools I Use Frequently:
+- Code Editor: VS Code / WebStorm
+- Version Control: Git, GitHub
+- Design: Adobe, Canva
+- Deployment: Vercel, Netlify
+
+---
 
 > *"Helping people crack DevOps with real-world knowledge. Let's build and automate the future, one pipeline at a time!"*
