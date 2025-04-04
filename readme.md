@@ -1,8 +1,5 @@
 <h1 align="center">Hey Everyone 👋, I'm Draxx</h1>
 
-<div align="center">
-  <img src="https://github.com/jaiswaladi246/jaiswaladi246/blob/main/Banner.png" alt="DevOpsShack Banner">
-</div>
 
 <h3 align="center">I work in the Corporate IT Sector and in my free time I make Bot's Discord
 
