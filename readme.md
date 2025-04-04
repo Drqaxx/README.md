@@ -4,7 +4,7 @@
   <img src="https://github.com/jaiswaladi246/jaiswaladi246/blob/main/Banner.png" alt="DevOpsShack Banner">
 </div>
 
-<h3 align="center">A passionate DevOps Engineer from India. I work in the Corporate IT Sector and in my free time I make YouTube videos at <a href="https://www.youtube.com/@devopsshack" target="_blank">DevOpsShack</a></h3>
+<h3 align="center">I work in the Corporate IT Sector and in my free time I make Bot's Discord
 
 <img align="right" alt="Coding" width="400" src="https://media.discordapp.net/attachments/1186837525151617106/1357775673481236642/draxx.png?ex=67f16ea2&is=67f01d22&hm=c7594d32ee401f0262bfd317b8172d5e4d87e5cf8760bfc6aabc101f13167208&=&format=webp&quality=lossless&width=788&height=788">
 
